@@ -6,7 +6,7 @@ Telugu Tokenizer is a project designed to tokenize Telugu text using Sentencepie
 
 ## Dataset
 
-The dataset used for training the tokenizer consists of a comprehensive collection of Telugu books. This diverse and extensive dataset allows the tokenizer to learn and generalize well across different styles and contexts of Telugu text.
+The dataset used for training the tokenizer consists of a comprehensive collection of Telugu books and Telugu news. This extensive dataset allows the tokenizer to learn and generalize well across different styles and contexts of Telugu text.
 
 ## Hugging Face App
 
