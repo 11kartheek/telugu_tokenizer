@@ -18,6 +18,6 @@ The Telugu Tokenizer is trained using the Byte Pair Encoding (BPE) algorithm. BP
 
 ### Compression Ratio
 
-One of the key metrics for evaluating the performance of our tokenizer is the compression ratio. This measures how well the tokenizer compresses the input text, which is an indicator of its efficiency and effectiveness. compression ratio achevied is 3.27
+One of the key metrics for evaluating the performance of our tokenizer is the compression ratio. This measures how well the tokenizer compresses the input text, which is an indicator of its efficiency and effectiveness. compression ratio achevied is 3.33
 
 
